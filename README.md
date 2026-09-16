@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # <img src="logo.svg" alt="Transmuter" height="40px"> Angle - Transmuter
 
 [![Transmuter CI](https://github.com/AngleProtocol/angle-transmuter/actions/workflows/ci.yml/badge.svg)](https://github.com/AngleProtocol/angle-transmuter/actions)
